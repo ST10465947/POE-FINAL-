@@ -1,0 +1,26 @@
+[
+  {
+    "messageHash": "JSON1",
+    "messageID": "J1",
+    "recipient": "+27123456789",
+    "message": "This is a sample stored message loaded from JSON file using Gson",
+    "flag": "Stored",
+    "sender": "System"
+  },
+  {
+    "messageHash": "JSON2",
+    "messageID": "J2",
+    "recipient": "+27987654321",
+    "message": "Another stored message loaded from external file",
+    "flag": "Stored",
+    "sender": "System"
+  },
+  {
+    "messageHash": "JSON3",
+    "messageID": "J3",
+    "recipient": "+27838884567",
+    "message": "Stored message demonstrating JSON integration with ChatGPT assistance",
+    "flag": "Stored",
+    "sender": "System"
+  }
+]
